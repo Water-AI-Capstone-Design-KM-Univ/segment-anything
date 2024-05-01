@@ -1,8 +1,5 @@
-matplotlib
-cv2
-torch
-torchvision
+opencv-python
 pycocotools
+matplotlib
+onnxruntime
 onnx
-black
-isort
