@@ -3,6 +3,6 @@ pycocotools
 matplotlib
 onnxruntime
 onnx
-torch==1.4.0
-torchvision==0.5.0
-segmentation-models-pytorch==0.1.0
+torch
+torchvision
+segmentation-models-pytorch
